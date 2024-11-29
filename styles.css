@@ -1,0 +1,77 @@
+body {
+    color: #000000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+        background-image: url('https://th.bing.com/th/id/R.a87a1a04c6d5ce07f94c1435aeb713c3?rik=VGHg1FvSS8fAjw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-3LM2kWqBf-M%2fUkFRhLfQ8WI%2fAAAAAAAAQ7E%2f5y4Sm2Szos8%2fs1600%2fDescargar%2bpack%2bfondos%2babstractos%2b%2b%252528423%252529.jpg&ehk=afTCBJ6BL0XaSEnCRsjRzIVwfj1fmStknXMd0TVICus%3d&risl=&pid=ImgRaw&r=0'); 
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat; 
+        background-color: #000000;
+
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+form {
+    margin: 20px auto;
+    width: 300px;
+    text-align: left;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+form input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #00ff33;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffffff;
+}
+
+table {
+    margin: 20px auto;
+    color: #00ff48;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table, th, td {
+    border: 1px solid #fbf8f8;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+footer {
+    margin-top: -120px;
+    position: absolute;
+    top: 20%;
+    right: 5%;
+}
+
+#representativeImage {
+    max-width: 200px;
+    margin: 0px auto;
+}
